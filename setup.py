@@ -1,0 +1,12 @@
+import os
+print("🍀 Setup Whatsapp Bot")
+print("🍁 Share WhatsApp Bot Channel : https://t.me/tretraunetwork")
+os.system(f"npm install @whiskeysockets/baileys --no-bin-links --unsafe-perm")
+os.system(f"npm install dotenv --no-bin-links --unsafe-perm")
+os.system(f"npm install qrcode-terminal --no-bin-links --unsafe-perm")
+os.system(f"npm install axios --no-bin-links --unsafe-perm")
+os.system(f"npm install minimist --no-bin-links --unsafe-perm")
+os.system(f"npm install colors --no-bin-links --unsafe-perm")
+os.system(f"npm install request --no-bin-links --unsafe-perm")
+os.system(f"npm install hpack --no-bin-links --unsafe-perm")
+os.system(f"npm install socks --no-bin-links --unsafe-perm")

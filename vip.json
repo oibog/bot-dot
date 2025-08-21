@@ -1,0 +1,11 @@
+{
+    "admin": [
+        "number_phone"
+    ],
+    "vip_users": {
+        "number_phone": {
+            "max_time": 120,
+            "expiry": "2025-12-31"
+        }
+    }
+}
